@@ -136,3 +136,10 @@ O repositório foi preparado para atender ao formato pedido no trabalho:
 - exibição do fitness por geração;
 - saída estruturada em Markdown;
 - documentação técnica em `docs/`.
+
+
+## Declaração de uso de inteligência artificial
+
+Neste projeto, houve uso pontual de ferramentas de inteligência artificial apenas como apoio auxiliar para consultas de sintaxe, esclarecimento de dúvidas específicas de implementação e suporte durante o desenvolvimento do código.
+
+A modelagem do problema, a definição da solução, a implementação principal do algoritmo, os testes realizados e a análise dos resultados foram conduzidos pelo alunos Eric Donato, Paula Martins e Matheus Henrique. Assim, a inteligência artificial não foi utilizada para realizar o trabalho de forma autônoma, mas somente como ferramenta de apoio complementar, de maneira compatível com as orientações do professor.
